@@ -1,0 +1,37 @@
+html {
+    background: #c1ab86;
+    color: #003366;
+}
+
+header {
+    display: flex;
+    align-items: center;
+    border-bottom: 	#994d00 2px solid;
+    justify-content: space-between;
+}
+header img {
+    width: 30%;
+    height: 10%;
+}
+header a {
+    font-size: 30px;
+}
+a {
+    color: #003366;
+}
+ul {
+    list-style: none;
+}
+h1 {
+    text-align: center;
+}
+section article {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 20px;
+}
+
+img {
+    width: 5%;
+}

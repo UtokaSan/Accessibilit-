@@ -1,0 +1,46 @@
+html {
+    background: #c1ab86;
+    color: #003366;
+}
+
+header {
+    display: flex;
+    align-items: center;
+    border-bottom: 	#994d00 2px solid;
+    justify-content: space-between;
+}
+header img {
+    width: 10%;
+    height: 10%;
+}
+header a {
+    font-size: 30px;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    margin: 20px;
+}
+
+a {
+    color: #003366;
+}
+ul {
+    list-style: none;
+}
+table * {
+    border: #003366 2px solid;
+}
+.taken-img{
+    width: 15%;
+}
+header img {
+    width: 30%;
+}
